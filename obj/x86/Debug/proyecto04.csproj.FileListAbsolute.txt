@@ -1,0 +1,5 @@
+C:\Petruzzi.Gustavo\proyecto04\bin\Debug\proyecto04.exe
+C:\Petruzzi.Gustavo\proyecto04\bin\Debug\proyecto04.pdb
+C:\Petruzzi.Gustavo\proyecto04\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Petruzzi.Gustavo\proyecto04\obj\x86\Debug\proyecto04.exe
+C:\Petruzzi.Gustavo\proyecto04\obj\x86\Debug\proyecto04.pdb
